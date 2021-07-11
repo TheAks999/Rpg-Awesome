@@ -3,12 +3,14 @@
   "title": "rpg-awesome",
   "description": "A module re-packages rpg-awesome for use in foundryvtt modules",
   "author": "TheAks999",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.8",
   "styles": [
     "css/rpg-awesome.min.css"
   ],
   "library": true,
-  "manifest": "https://raw.githubusercontent.com/TheAks999/Rpg-Awesome/master/module.json"
+  "manifest": "https://raw.githubusercontent.com/TheAks999/Rpg-Awesome/master/module.json",
+  "download": "https://github.com/TheAks999/Rpg-Awesome/archive/refs/tags/1.0.1.zip",
+  "url":"https://github.com/TheAks999/Rpg-Awesome"
 }
