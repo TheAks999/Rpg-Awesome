@@ -10,5 +10,5 @@
     "css/rpg-awesome.min.css"
   ],
   "library": true,
-  "manifest": "https://github.com/TheAks999/Rpg-Awesome/blob/master/module.json"
+  "manifest": "https://raw.githubusercontent.com/TheAks999/Rpg-Awesome/master/module.json"
 }
