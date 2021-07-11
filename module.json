@@ -9,5 +9,6 @@
   "styles": [
     "css/rpg-awesome.min.css"
   ],
-  "library": true
+  "library": true,
+  "manifest": "https://github.com/TheAks999/Rpg-Awesome/blob/master/module.json"
 }
