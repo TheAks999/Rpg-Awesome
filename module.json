@@ -1,0 +1,13 @@
+{
+  "name": "rpg-awesome",
+  "title": "rpg-awesome",
+  "description": "A module re-packages rpg-awesome for use in foundryvtt modules",
+  "author": "TheAks999",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.8",
+  "styles": [
+    "css/rpg-awesome.min.css"
+  ],
+  "library": true
+}
